@@ -1,6 +1,5 @@
 # Контент игры: **Portal**
 
-* Версия пакета: 1
 * [Остальной контент](https://github.com/WoowzCore/Source-Content)
 
 ## Дополнительно
