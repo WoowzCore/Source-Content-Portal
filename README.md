@@ -17,8 +17,19 @@
 Мало материалов, куча интересных моделей в виде компьютеров и серверов
 
 ## Фото
-![](__IMAGES/1.png)
-![](__IMAGES/2.png)
-![](__IMAGES/3.png)
-![](__IMAGES/4.png)
-![](__IMAGES/5.png)
+
+### Модели
+
+![](__INDEX/Models/batch_1.png)
+![](__INDEX/Models/batch_2.png)
+![](__INDEX/Models/batch_3.png)
+![](__INDEX/Models/batch_4.png)
+
+### Материалы
+
+![](__INDEX/Materials/batch_1.png)
+![](__INDEX/Materials/batch_2.png)
+![](__INDEX/Materials/batch_3.png)
+![](__INDEX/Materials/batch_4.png)
+![](__INDEX/Materials/batch_5.png)
+![](__INDEX/Materials/batch_6.png)
